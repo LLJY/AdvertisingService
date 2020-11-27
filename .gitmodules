@@ -1,0 +1,3 @@
+[submodule "AdvertisingService/Protos"]
+	path = AdvertisingService/Protos
+	url = https://github.com/LLJY/Knot-Protos
